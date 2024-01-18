@@ -1,0 +1,5 @@
+2024-01-18 11:56:31,942 - INFO - GET request received for all customers.
+2024-01-18 12:01:54,549 - INFO - POST request received. New customer added.
+2024-01-18 12:02:08,270 - INFO - POST request received. New customer added.
+2024-01-18 12:02:55,080 - INFO - PUT request received for customer with id 3. Customer information updated.
+2024-01-18 12:03:25,898 - INFO - DELETE request received for customer with id 4. Customer information deleted.
